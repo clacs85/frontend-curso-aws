@@ -1,6 +1,7 @@
 //export const HOST_BACKEND = "http://localhost"
 //export const HOST_BACKEND = "http://192.168.99.100"
-export const HOST_BACKEND = "http://myBalancerCf-1895128235.us-east-1.elb.amazonaws.com"
+//export const HOST_BACKEND = "http://myBalancerCf-1895128235.us-east-1.elb.amazonaws.com"
+export const HOST_BACKEND = "https://sonboh038c.execute-api.us-east-1.amazonaws.com/prod"
 
 export const TIME_UPDATE_GEOLOCALIZATION = 60000;
 export const RADIO = 0.029;
